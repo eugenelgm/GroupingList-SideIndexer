@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  android:layout_width="fill_parent"
+  android:layout_height="wrap_content"
+  android:gravity="center">
+	<ImageView 
+		android:id="@+id/side_search_magifier"
+		android:layout_width="wrap_content"
+		android:layout_height="@dimen/sideindexer_letter_height"
+		android:src="@drawable/icon_search_small"
+		android:visibility="gone"/>
+	<TextView
+		android:id="@+id/side_index_text"
+		android:layout_width="fill_parent"
+		android:layout_gravity="center"
+		android:textSize="12sp"
+		android:typeface="sans"
+		android:gravity="center"
+		android:textColor="@android:color/white"
+		android:layout_height="@dimen/sideindexer_letter_height"/>
+</LinearLayout>

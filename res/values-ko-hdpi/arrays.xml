@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string-array name="side_indexer">
+		<item>!</item>
+    	<item>ㄱ</item>
+    	<item>ㄴ</item>
+    	<item>ㄷ</item>
+    	<item>ㄹ</item>
+    	<item>ㅁ</item>
+    	<item>ㅂ</item>
+    	<item>ㅅ</item>
+    	<item>ㅇ</item>
+    	<item>ㅈ</item>
+    	<item>ㅊ</item>
+    	<item>ㅋ</item>
+    	<item>ㅌ</item>
+    	<item>ㅍ</item>
+    	<item>ㅎ</item>
+    	<item>A</item>
+    	<item>F</item>
+    	<item>J</item>
+    	<item>O</item>
+    	<item>S</item>
+    	<item>Z</item>
+    	<item>#</item>
+    </string-array>
+    <string-array name="side_indexer_landscape">
+    	<item>!</item>
+    	<item>ㄱ</item>
+    	<item>ㄴ</item>
+    	<item>ㄹ</item>
+    	<item>ㅂ</item>
+    	<item>ㅅ</item>
+    	<item>ㅇ</item>
+    	<item>ㅈ</item>
+    	<item>ㅊ</item>
+    	<item>ㅎ</item>
+    	<item>A</item>
+    </string-array>
+</resources>
